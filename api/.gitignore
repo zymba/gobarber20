@@ -2,3 +2,6 @@ node_modules
 .vscode
 tmp/*
 !tmp/.gitkeep
+coverage
+.DS_Store
+
