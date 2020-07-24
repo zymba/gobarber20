@@ -37,6 +37,7 @@ module.exports = {
       "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
       "import/prefer-default-export": "off",
       "react/jsx-one-expression-per-line": "off",
+      "import/no-duplicates": "off",
       "@typescript-eslint/camelcase": "off",
       "@typescript-eslint/explicit-function-return-type": [
         "error",
